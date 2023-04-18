@@ -3625,9 +3625,6 @@ python-rpi.gpio-pip:
   debian:
     pip:
       packages: [RPi.GPIO]
-  fedora:
-    pip:
-      packages: [RPi.GPIO]
   ubuntu:
     pip:
       packages: [RPi.GPIO]
